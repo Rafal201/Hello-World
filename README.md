@@ -1,2 +1,7 @@
 # Hello-World
-My first repository
+This is my first repository
+
+
+Hi people! :D 
+
+Rafal here, i'm beginner of programing :)
